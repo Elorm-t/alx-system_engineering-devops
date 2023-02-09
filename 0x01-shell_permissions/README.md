@@ -11,3 +11,6 @@ Task 3 - New owner: Script changes the owner of the file.
 Task 4 - Empty!: This script creates an empty file.
 
 Task 5 - Execute: Script adds execute permission to the owner of a file.
+
+Task 6 - Multiple permissions: Script adds execute permission for owner and group owner, and read 
+	 		       permission for other users
