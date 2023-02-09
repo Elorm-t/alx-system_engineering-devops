@@ -14,3 +14,5 @@ Task 5 - Execute: Script adds execute permission to the owner of a file.
 
 Task 6 - Multiple permissions: Script adds execute permission for owner and group owner, and read 
 	 		       permission for other users
+
+Task 7 - Everybody: Script adds execute permission to owner, group owner and other users.
