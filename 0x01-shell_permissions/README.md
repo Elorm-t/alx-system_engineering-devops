@@ -34,3 +34,5 @@ Task 14 - Owner and group: Script changes the owner and group of subdirectories 
 Task 15 - Symbolic links: Script changes owner and group of symbolic link.
 
 Task 16 - If only: Script changes owner of file based on previous ownership.
+
+Task 17 - Star Wars: Script to play star wars episode IV in terminal.
