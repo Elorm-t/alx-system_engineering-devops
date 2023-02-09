@@ -27,4 +27,6 @@ Task 11 - Directories: Script sets execute permission of all subdirectories and 
 
 Task 12 - More directories: Script to set permission of directory when created.
 
-Task 13 - Change group: Script changes the group of file to school.
+Task 13 - Change group: Script changes the group of file to school
+
+Task 14 - Owner and group: Script changes the owner and group of subdirectories and files in working directory..
