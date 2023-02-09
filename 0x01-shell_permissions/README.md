@@ -9,3 +9,5 @@ Task 2 - Groups: This script prints all the groups the current user is part of.
 Task 3 - New owner: Script changes the owner of the file.
 
 Task 4 - Empty!: This script creates an empty file.
+
+Task 5 - Execute: Script adds execute permission to the owner of a file.
