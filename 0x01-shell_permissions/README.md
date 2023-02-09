@@ -26,3 +26,5 @@ Task 10 - Look in the mirror: Script sets permission of one file as another.
 Task 11 - Directories: Script sets execute permission of all subdirectories and not other files.
 
 Task 12 - More directories: Script to set permission of directory when created.
+
+Task 13 - Change group: Script changes the group of file to school.
