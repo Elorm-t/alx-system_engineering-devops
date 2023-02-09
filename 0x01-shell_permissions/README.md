@@ -22,3 +22,5 @@ Task 8 - James Bond: Script sets all permissions for other user and no permissio
 Task 9 - John Doe: Script set permission of file using octal notation.
 
 Task 10 - Look in the mirror: Script sets permission of one file as another.
+
+Task 11 - Directories: Script sets execute permission of all subdirectories and not other files.
