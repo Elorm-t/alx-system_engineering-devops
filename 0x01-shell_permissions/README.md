@@ -29,4 +29,6 @@ Task 12 - More directories: Script to set permission of directory when created.
 
 Task 13 - Change group: Script changes the group of file to school
 
-Task 14 - Owner and group: Script changes the owner and group of subdirectories and files in working directory..
+Task 14 - Owner and group: Script changes the owner and group of subdirectories and files in working directory.
+
+Task 15 - Symbolic links: Script changes owner and group of symbolic link.
