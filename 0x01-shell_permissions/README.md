@@ -16,3 +16,5 @@ Task 6 - Multiple permissions: Script adds execute permission for owner and grou
 	 		       permission for other users
 
 Task 7 - Everybody: Script adds execute permission to owner, group owner and other users.
+
+Task 8 - James Bond: Script sets all permissions for other user and no permissions for owner and group owner.
