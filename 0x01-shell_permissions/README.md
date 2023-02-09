@@ -20,3 +20,5 @@ Task 7 - Everybody: Script adds execute permission to owner, group owner and oth
 Task 8 - James Bond: Script sets all permissions for other user and no permissions for owner and group owner.
 
 Task 9 - John Doe: Script set permission of file using octal notation.
+
+Task 10 - Look in the mirror: Script sets permission of one file as another.
