@@ -9,3 +9,5 @@ Task 2 - Let's display a file: Script displays the content of a specified file.
 Task 3 - What about 2?: Script displays contents of two different files.
 
 Task 4 - Last lines of a file: Script displays last 10 lines of a file.
+
+Task 5 -I'd prefer the first ones actually: Script displays first 10 lines of a file.
