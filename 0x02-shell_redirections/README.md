@@ -19,3 +19,5 @@ Task 7 - It is a good file that cuts iron without making noice: Script creates f
 Task 8 - Save current state of directory: Script writes the result of ls -la into file.
 
 Task 9 - Duplicate last line: Script duplicates last line of a file.
+
+Task 10 - No more javascript: Script deletes all javascript files in the current directory and subdirectories.
