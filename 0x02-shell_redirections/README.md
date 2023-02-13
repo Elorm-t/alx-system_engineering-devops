@@ -28,4 +28,6 @@ Task 12 - What's new: Scripts displays the 10 newest files in the current direct
 
 Task 13 - Being unique is better than being perfect: Script output sorted list of words with no duplicates.
 
-Task 14 - It must be in that file: Scripts displays lines containing a pattern.
+Task 14 - It must be in that file: Script displays lines containing a pattern.
+
+Task 15 - Count that word: Script displays the number of lines that match a pattern.
