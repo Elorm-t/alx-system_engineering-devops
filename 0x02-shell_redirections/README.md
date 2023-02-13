@@ -21,3 +21,5 @@ Task 8 - Save current state of directory: Script writes the result of ls -la int
 Task 9 - Duplicate last line: Script duplicates last line of a file.
 
 Task 10 - No more javascript: Script deletes all javascript files in the current directory and subdirectories.
+
+Task 11 - Don't just count your directories, make your directories count: Script counts number of directories and sub-directories in the current directory.
