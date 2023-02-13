@@ -41,3 +41,5 @@ Task 18 - Letters only please: Script displays all lines of a files starting wit
 Task 19 - A to Z: Script replaces characters in a file.
 
 Task 20 - Without C, you would live in hiago: Scripts deletes specified characters from file.
+
+Task 21 - esreveR: Script reverses its input.
