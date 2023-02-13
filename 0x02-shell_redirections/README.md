@@ -44,4 +44,6 @@ Task 20 - Without C, you would live in hiago: Scripts deletes specified characte
 
 Task 21 - esreveR: Script reverses its input.
 
-Task 21 - DJ Cut Killer: Script displays all users and their home directories, sorted by users.
+Task 22 - DJ Cut Killer: Script displays all users and their home directories, sorted by users.
+
+Task 23 - Empty casks make the most noise: Script finds all empty files and directories in the current directory and all sub-directories.
