@@ -49,3 +49,5 @@ Task 22 - DJ Cut Killer: Script displays all users and their home directories, s
 Task 23 - Empty casks make the most noise: Script finds all empty files and directories in the current directory and all sub-directories.
 
 Task 24 - A gif is worth ten thousand words: Script lists all the files with a .gif extension in the current directory and all its sub-directories.
+
+Task 25 - Acrostic: Script decodes acrostics using the first letter of each line.
