@@ -37,3 +37,5 @@ Task 16 - What's next?: Script displays lines containing a pattern and 3 lines a
 Task 17 - I hate bins: Script displays lines of non-matching pattern.
 
 Task 18 - Letters only please: Script displays all lines of a files starting with a letter.
+
+Task 19 - A to Z: Script replaces characters in a file.
