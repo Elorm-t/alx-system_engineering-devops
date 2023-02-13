@@ -23,3 +23,5 @@ Task 9 - Duplicate last line: Script duplicates last line of a file.
 Task 10 - No more javascript: Script deletes all javascript files in the current directory and subdirectories.
 
 Task 11 - Don't just count your directories, make your directories count: Script counts number of directories and sub-directories in the current directory.
+
+Task 12 - What's new: Scripts displays the 10 newest files in the current directory.
