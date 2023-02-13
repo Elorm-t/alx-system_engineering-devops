@@ -27,3 +27,5 @@ Task 11 - Don't just count your directories, make your directories count: Script
 Task 12 - What's new: Scripts displays the 10 newest files in the current directory.
 
 Task 13 - Being unique is better than being perfect: Script output sorted list of words with no duplicates.
+
+Task 14 - It must be in that file: Scripts displays lines containing a pattern.
