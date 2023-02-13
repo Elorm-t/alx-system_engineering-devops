@@ -15,3 +15,5 @@ Task 5 -I'd prefer the first ones actually: Script displays first 10 lines of a 
 Task 6 - Line #2: Script displays third line of a file.
 
 Task 7 - It is a good file that cuts iron without making noice: Script creates file with wierd name.
+
+Task 8 - Save current state of directory: Script writes the result of ls -la into file.
