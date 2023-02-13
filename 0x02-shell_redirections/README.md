@@ -31,3 +31,5 @@ Task 13 - Being unique is better than being perfect: Script output sorted list o
 Task 14 - It must be in that file: Script displays lines containing a pattern.
 
 Task 15 - Count that word: Script displays the number of lines that match a pattern.
+
+Task 16 - What's next?: Script displays lines containing a pattern and 3 lines after them in a file.
