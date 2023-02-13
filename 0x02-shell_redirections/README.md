@@ -1,3 +1,5 @@
 Project - 0x02-shell_redirections
 
-Task 0 - Hello World: The scripts prints 'Hello, World' followed by newline to the standard output.
+Task 0 - Hello World: The script prints 'Hello, World' followed by newline to the standard output.
+
+Task 1 - Confused smiley: The script displays a confused smiley.
