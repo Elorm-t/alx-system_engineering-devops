@@ -35,3 +35,5 @@ Task 15 - Count that word: Script displays the number of lines that match a patt
 Task 16 - What's next?: Script displays lines containing a pattern and 3 lines after them in a file.
 
 Task 17 - I hate bins: Script displays lines of non-matching pattern.
+
+Task 18 - Letters only please: Script displays all lines of a files starting with a letter.
