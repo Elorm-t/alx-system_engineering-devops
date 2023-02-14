@@ -23,3 +23,5 @@ Task 9 - Divide and rule: A script that prints the result of division of two env
 Task 10 - Love is anterior to life, posterior to death, initial of creation, and the exponent of breath: Script displays the result of exponantiation mathematical operation of values in environment variables.
 
 Task 11 - There are 10 types of people in the world -- Those who understand binary, and those who don't: Script converts a number stored in an environment variable from base 2 to 10.
+
+Task 12 - Combination: Script prints a combination of two specified letter, each on new line except the combination oo.
