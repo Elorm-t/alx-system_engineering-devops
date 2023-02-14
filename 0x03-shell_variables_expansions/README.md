@@ -30,4 +30,6 @@ Task 13 - Floats: Script prints the value stored in an environment variable, for
 
 Task 14 - Decimal to Hexadecimal: A script that converts a number stored in an environment variable from base ten to sixten.
 
-Task 15 - tr 'a-zA-Z' 'n-za-mN-ZA-M': Script encodes and decodes text using the rot13 encryption. Assume ASCII.
+Task 15 - Everyone is a proponent of strong encryption: Script encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+Task 26 - The eggs of the brood need to be an odd number: A script that prints every other line from the input, starting with the first line. 
