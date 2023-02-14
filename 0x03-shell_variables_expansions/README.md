@@ -9,3 +9,5 @@ Task 2 - The path to success is to take massive, determined action: A script tha
 Task 3 - If the path be beautiful, let us not ask where it leads: Script counts the number of directories in PATH.
 
 Task 4 - Global variables: A script that lists environment variables.
+
+Task 5 - Local variables: A script that lists all local variables and environment variables, and functions.
