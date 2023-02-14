@@ -17,3 +17,5 @@ Task 6 - Local variable: A script that creates a new local variable.
 Task 7 - Global variable: Script creates a ne global variable.
 
 Task 8 - Every addition to true knowledge is an addition to human power: A script that prints the result of the addition of 128 with the value stored in the environment variable.
+
+Task 9 - Divide and rule: A script that prints the result of division of two environment variables.
