@@ -11,3 +11,5 @@ Task 3 - If the path be beautiful, let us not ask where it leads: Script counts 
 Task 4 - Global variables: A script that lists environment variables.
 
 Task 5 - Local variables: A script that lists all local variables and environment variables, and functions.
+
+Task 6 - Local variable: A script that creates a new local variable.
