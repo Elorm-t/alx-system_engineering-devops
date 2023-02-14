@@ -27,3 +27,5 @@ Task 11 - There are 10 types of people in the world -- Those who understand bina
 Task 12 - Combination: Script prints a combination of two specified letter, each on new line except the combination oo.
 
 Task 13 - Floats: Script prints the value stored in an environment variable, formated to two decimal places.
+
+Task 14 - Decimal to Hexadecimal: A script that converts a number stored in an environment variable from base ten to sixten.
