@@ -32,4 +32,6 @@ Task 14 - Decimal to Hexadecimal: A script that converts a number stored in an e
 
 Task 15 - Everyone is a proponent of strong encryption: Script encodes and decodes text using the rot13 encryption. Assume ASCII.
 
-Task 26 - The eggs of the brood need to be an odd number: A script that prints every other line from the input, starting with the first line. 
+Task 16 - The eggs of the brood need to be an odd number: A script that prints every other line from the input, starting with the first line.
+
+Task 17 - I'm an instant star. Just add water and stir: Script adds two numbers in different bases stored in environment variables.
