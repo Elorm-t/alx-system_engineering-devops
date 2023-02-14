@@ -25,3 +25,5 @@ Task 10 - Love is anterior to life, posterior to death, initial of creation, and
 Task 11 - There are 10 types of people in the world -- Those who understand binary, and those who don't: Script converts a number stored in an environment variable from base 2 to 10.
 
 Task 12 - Combination: Script prints a combination of two specified letter, each on new line except the combination oo.
+
+Task 13 - Floats: Script prints the value stored in an environment variable, formated to two decimal places.
